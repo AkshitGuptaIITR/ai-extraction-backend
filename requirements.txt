@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+langgraph
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+python-dotenv
+pydantic-settings
+httpx
